@@ -1,0 +1,24 @@
+.headingContainer{
+    display: flex;
+    /* flex-direction: row; */
+    margin: auto;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+
+.mainAssessmentContainer{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.studentInformation{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+}
